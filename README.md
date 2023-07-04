@@ -2,6 +2,8 @@
 
 Chrome Extension that adds track with FedEx and UPS links to selection context menu.
 
+![image](https://github.com/LiamKinghouser/PackageTrack/assets/83019452/7d919e56-52ab-455e-845e-993ac466f6ff)
+
 Install:
 
 Chrome (or any Chromium-Based Browser):
