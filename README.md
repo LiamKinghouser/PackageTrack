@@ -8,7 +8,7 @@ Install:
 
 Chrome (or any Chromium-Based Browser):
 
-- Download the code as a ZIP file (https://github.com/LiamKinghouser/PackageTrack/archive/refs/heads/main.zip), and extract the folder
+- Download the code as a ZIP file (https://github.com/LiamKinghouser/PackageTrack/archive/refs/heads/master.zip), and extract the folder
 - Go to chrome://extensions
 - Make sure "Developer mode" is enabled
 - Click "Load unpacked"
