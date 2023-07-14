@@ -1,6 +1,6 @@
 {
   "name": "Package Tracker",
-  "description": "Adds track with FedEx and UPS links to selection context menu",
+  "description": "Adds track with FedEx and UPS links to selection context menu.",
   "icons": {
     "16": "icons/icon.png",
     "32": "icons/icon.png",
